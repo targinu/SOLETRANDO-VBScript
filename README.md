@@ -1,0 +1,1 @@
+# SOLETRANDO-VBScript
